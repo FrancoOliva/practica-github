@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 Hola 1, cómo estás?
+=======
+Hola 1
+
+
+
+
+
+
+
+
+Este texto es de relleno. Estamos practicando utilizar GITHUB en equipo.
+>>>>>>> 4ef6ac02c245b8e1844e2b57041c09de5f9469cf
